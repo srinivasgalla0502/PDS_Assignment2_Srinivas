@@ -1,6 +1,6 @@
 # PDS_Assignment2_Srinivas
 
-1) The provided data (link above) contains various details and attributes associated with used cars. The
+The provided data (link above) contains various details and attributes associated with used cars. The
 target variable, which is the central focus of analysis, is the price of the used cars, and it is measured in
 lakhs. The data in this dataset is tabular, with rows and columns, where each row represents a specific
 used car listing, and each column represents a particular attribute or feature of these cars. Features are
